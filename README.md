@@ -22,7 +22,7 @@ A Python script to delete all files owned by the authenticated user in Google Dr
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/google-drive-file-deleter.git
+git clone https://github.com/alexk136/google-drive-file-deleter.git
 cd google-drive-file-deleter
 ```
 
